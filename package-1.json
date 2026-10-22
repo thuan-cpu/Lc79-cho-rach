@@ -1,0 +1,17 @@
+{
+  "name": "cdev-taixiu-md5",
+  "version": "2.0.0",
+  "description": "CDEV Tài Xỉu MD5 Predictor - Cầu + Điểm + Ensemble cấp cao",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["taixiu", "md5", "predictor", "cdev"],
+  "author": "@onlywhite27",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "type": "commonjs"
+}
